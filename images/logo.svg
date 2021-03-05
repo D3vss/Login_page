@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" width="1200" height="1200">
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="583.112" y1="1509.133" x2="-146.954" y2="779.066">
+			<stop offset="0.002" stop-color="#193b9f"  />
+			<stop offset="1" stop-color="#16c0f1"  />
+		</linearGradient>
+		<linearGradient id="grd2" gradientUnits="userSpaceOnUse"  x1="1130.659" y1="994.967" x2="369.729" y2="234.037">
+			<stop offset="0.002" stop-color="#193b9f"  />
+			<stop offset="1" stop-color="#16c0f1"  />
+		</linearGradient>
+		<linearGradient id="grd3" gradientUnits="userSpaceOnUse"  x1="426.257" y1="364.213" x2="828.186" y2="836.922">
+			<stop offset="0" stop-color="#4448a6"  />
+			<stop offset="1" stop-color="#ffffff"  />
+		</linearGradient>
+		<linearGradient id="grd4" gradientUnits="userSpaceOnUse"  x1="799.791" y1="76.854" x2="1198.058" y2="545.256">
+			<stop offset="0" stop-color="#0c3a95"  />
+			<stop offset="1" stop-color="#ffffff"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: url(#grd1) } 
+		.shp1 { fill: url(#grd2) } 
+		.shp2 { fill: url(#grd3) } 
+		.shp3 { fill: url(#grd4) } 
+	</style>
+	<g id="&lt;Group&gt;">
+		<path id="&lt;Path&gt;" class="shp0" d="M1191.47 600.02C1191.47 931.26 918.96 1198.82 585.89 1190.75C272.51 1183.16 17.18 927.63 9.82 614.23C5.41 426.56 88.52 258.17 221.19 147C298.84 81.92 417.34 138.47 417.34 239.79C417.34 274.97 402.02 308.54 375.06 331.15C295.64 397.8 246.21 499 249.85 611.65C255.74 794.3 404.2 943.69 586.82 950.66C786.9 958.3 951.46 798.4 951.46 600.02L1191.47 600.02Z" />
+		<path id="&lt;Path&gt;" class="shp1" d="M1191.47 600.02C1191.47 273.66 926.92 9.11 600.56 9.11L600.56 249.12L600.56 269.38C600.56 405.35 682.66 522.1 799.96 572.89C827.28 512.15 827.3 431.77 800.05 331.74C904.58 386.81 955.05 476.24 951.46 600.02L1191.47 600.02Z" />
+		<g id="&lt;Group&gt;" style="mix-blend-mode: multiply">
+			<path id="&lt;Path&gt;" class="shp2" d="M366.26 338.96C369.18 336.34 372.06 333.68 375.06 331.15C372.93 332.94 369.99 335.55 366.26 338.96Z" />
+			<path id="&lt;Path&gt;" class="shp3" d="M306.78 1112.03C389.51 1159.84 484.63 1188.3 585.89 1190.75C918.96 1198.82 1191.47 931.26 1191.47 600.02L951.46 600.02C951.46 798.4 786.9 958.3 586.82 950.66C404.2 943.69 255.74 794.3 249.85 611.65C246.67 513.23 284.01 423.55 346.47 358.01C255.03 449.97 -6.37 765.7 306.78 1112.03Z" />
+		</g>
+	</g>
+</svg>
